@@ -1,0 +1,5 @@
+C:\Users\Ishmael Gyaban\Desktop\Emmy C# Work\Chapter10\WorkingWithEFCore\obj\Debug\net6.0\WorkingWithEFCore.csproj.AssemblyReference.cache
+C:\Users\Ishmael Gyaban\Desktop\Emmy C# Work\Chapter10\WorkingWithEFCore\obj\Debug\net6.0\WorkingWithEFCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ishmael Gyaban\Desktop\Emmy C# Work\Chapter10\WorkingWithEFCore\obj\Debug\net6.0\WorkingWithEFCore.AssemblyInfoInputs.cache
+C:\Users\Ishmael Gyaban\Desktop\Emmy C# Work\Chapter10\WorkingWithEFCore\obj\Debug\net6.0\WorkingWithEFCore.AssemblyInfo.cs
+C:\Users\Ishmael Gyaban\Desktop\Emmy C# Work\Chapter10\WorkingWithEFCore\obj\Debug\net6.0\WorkingWithEFCore.csproj.CoreCompileInputs.cache
